@@ -122,3 +122,8 @@ width: 100%;
 text-align: center;
 
 }
+.conteudo h2{
+    font-size:2rem;
+    color: #ffff;
+    margin-bottom: 30px;
+}
